@@ -1,0 +1,8 @@
+#
+spring 
+redis 
+python
+java
+obdbc 
+mysql
+multi thread
